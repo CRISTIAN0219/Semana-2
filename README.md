@@ -23,8 +23,6 @@ estructuras-condicionales-bucles/
 
 ### `README.md`
 
-Guía documentada con ejemplos explicados en Markdown. (Este contenido lo puedes copiar directamente a tu README.md en GitHub):
-
 <details>
 <summary><strong>Haz clic aquí para desplegar el contenido del README.md</strong></summary>
 
